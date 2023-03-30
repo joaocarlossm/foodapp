@@ -1,2 +1,0 @@
-# foodapp
-Aplicação em flutter
